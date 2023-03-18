@@ -1,0 +1,7 @@
+/* body default özellikj ata */
+body::before{
+display: block;
+content: "";
+height: 70px;
+
+}
